@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Chips from './components/Chips';
 import './App.css';
 
-const chipsData = Array.from({ length: 15 }, (_, i) => ({
+const chipsData = Array.from({ length: 20 }, (_, i) => ({
   id: `chip-${i + 1}`,
   label: `Чипс ${i + 1}`,
 }));

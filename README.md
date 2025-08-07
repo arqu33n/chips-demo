@@ -13,13 +13,13 @@
 - Компонент переиспользуемый.
 - Один чипс можно использовать отдельно от списка
 
-## [Live demo](https://shop-cup-time.vercel.app) <-
+## [Live demo](https://arqu33n.github.io/chips-demo/) <-
 
 ## Tech Stack
 
-- React, TypeScript, Vite
-- TypeScript
-- CSS modules
+- Фронтенд: React, TypeScript, Vite
+- Попап: reactjs-popup
+- Стили: CSS modules
 
 ## Usage
 
